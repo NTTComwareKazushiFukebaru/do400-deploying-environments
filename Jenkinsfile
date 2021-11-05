@@ -19,3 +19,5 @@ sh '''
 archiveArtifacts 'target/*.jar'
 }
 }
+}
+}
